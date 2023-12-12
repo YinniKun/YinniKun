@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Richard and currently is a PhD student at the Department of Medical Biophysics at the University of Toronto. I got my Bachelor of Science in Medical Physics and Bioinformatics from the University of Waterloo, and I am interested in using computational approaches to unveil mysteries in cancer.  
+My name is Richard and currently is a PhD student at the Department of Medical Biophysics at the University of Toronto. I got my Bachelor of Science in Medical Physics, Biology, and Bioinformatics from the University of Waterloo, and I am interested in using computational and mathematical approaches to unveil mysteries in cancer.  
